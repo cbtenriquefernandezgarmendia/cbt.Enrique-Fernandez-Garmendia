@@ -1,0 +1,11 @@
+<html>
+<head>
+  <title>Mi pÃ¡gina web</title>
+</head>
+<body>
+  <h1> Bachillerato tecnologico centro de estudios tecnologicos y universitarios Garmendia</h1>
+  <p> Garmendia es una institucion del estado de mexico </p>
+ <br>
+<h2> tecnologico universitario </h2>
+</body>
+</html>
